@@ -1,0 +1,14 @@
+{
+  "clips": [
+    {
+      "name": "atelier-a.mov",
+      "durationSeconds": 8.6
+    },
+    {
+      "name": "atelier-b.mov",
+      "durationSeconds": 12.4
+    }
+  ],
+  "count": 2,
+  "totalSeconds": 21
+}
